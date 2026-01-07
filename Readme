@@ -15,14 +15,14 @@ A House That Actively Rejects Noise
 在此階段中，噪音被抽象為點，空間則以中性的網格表示。當噪音點靠近時，網格會產生推擠或拉動，而類似彈簧的回復力則不斷嘗試將系統拉回平衡狀態。這個圖示並非物理或聲學模擬，而是一種行為模型。
 它用來視覺化空間在受到干擾時可能產生的反應，以及距離、強度與重複性如何促成空間變化。此演進圖成為後續所有建築決策的概念基礎。
 
-![Visual Diagram]("C:\Users\user\Pictures\Screenshots\visual diagram.png")
+![Visual Diagram]("C:\Users\user\Desktop\arch\11401\2D排斥\visual diagram.png")
 
 2. 三維空間轉譯
 當概念被轉譯至三維尺度時，圖像邏輯並未直接套用在建築本體上。
 住宅本身不彎曲、不傾斜、也不變形；取而代之的是周邊地表成為主動回應的元素。草地與鋪面在垂直方向上產生隆起或下陷，同時仍然錨定於基地之上。這樣的變形被理解為「拉伸」，而非整體位移，確保地表的連續性與穩定感，而非被掀起或漂浮。
 最終形成的是一個在視覺與空間層面上對噪音產生回應的環境，而住宅本體則維持冷靜且穩定，位於其核心。
 
-![3D Visual Diagram]("C:\Users\user\Pictures\Screenshots\visual Diagram_02.png")
+![3D Visual Diagram]("C:\Users\user\Desktop\arch\11401\2D排斥\visual Diagram_02.png")
 
 3. 兩種噪音角色
 本計畫定義了兩種不同的噪音角色，各自引發不同的空間反應。
@@ -46,7 +46,7 @@ The project begins with a two-dimensional evolution diagram.
 In this early stage, noise is abstracted as points, and space is represented as a neutral grid. When noise points approach, the grid is pushed or pulled, while spring-like forces continuously attempt to return the system to equilibrium. This diagram is not intended as a physical or acoustic simulation, but as a behavioral model.
 It visualizes how space might react when disturbed, and how proximity, intensity, and repetition can produce spatial change. This diagram becomes the conceptual foundation for all later architectural decisions.
 
-![Visual Diagram]("C:\Users\user\Pictures\Screenshots\visual diagram.png")
+![Visual Diagram]("C:\Users\user\Desktop\arch\11401\2D排斥\visual diagram.png")
 
 2.Spatial Translation into 3D
 
@@ -54,7 +54,7 @@ When translated into three dimensions, the logic of the diagram is not applied d
 The house does not bend, tilt, or deform. Instead, the surrounding ground becomes the active element. Grass and pavement respond vertically, creating rises and depressions while remaining anchored to the site. The deformation is understood as stretching rather than displacement, ensuring that the ground feels continuous and grounded rather than lifted or detached.
 The result is an environment that visually and spatially reacts to noise, while the house remains calm and stable at its center.
 
-![3D Visual Diagram]("C:\Users\user\Pictures\Screenshots\visual Diagram_02.png")
+![3D Visual Diagram]("C:\Users\user\Desktop\arch\11401\2D排斥\visual Diagram_02.png")
 
 3.Two Types of Noise
 
